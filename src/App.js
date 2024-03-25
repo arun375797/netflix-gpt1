@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-    <p className='text-red-500 text-center'>namaste react</p>
+    <p className='text-red-500 text-center'>namaste reacts</p>
     </div>
   );
 }
