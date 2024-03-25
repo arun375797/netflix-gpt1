@@ -1,11 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+import Body from './components/Body';
 
 function App() {
   return (
-    <div className="App">
-    <p className='text-red-500 text-center'>namaste reacts</p>
-    </div>
+   <Body/>
   );
 }
 
